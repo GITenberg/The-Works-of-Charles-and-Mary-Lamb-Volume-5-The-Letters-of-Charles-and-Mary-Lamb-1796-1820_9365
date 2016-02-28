@@ -1,0 +1,46 @@
+_repo: The-Works-of-Charles-and-Mary-Lamb-Volume-5-The-Letters-of-Charles-and-Mary-Lamb-1796-1820_9365
+contributor:
+  creator:
+    editor:
+      agent_name: Lucas, E. V. (Edward Verrall)
+      aliases:
+      - Lucas, Edward Verrall
+      - Lucas, E.V.
+      birthdate: 1868
+      deathdate: 1938
+      gutenberg_agent_id: '818'
+      url: http://www.gutenberg.org/2009/agents/818
+      wikipedia: http://en.wikipedia.org/wiki/E._V._Lucas
+creator:
+  authors:
+  - agent_name: Lamb, Mary
+    alias: Lamb, Mary Ann
+    birthdate: 1764
+    deathdate: 1847
+    gutenberg_agent_id: '294'
+    url: http://www.gutenberg.org/2009/agents/294
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Lamb
+  - agent_name: Lamb, Charles
+    birthdate: 1775
+    deathdate: 1834
+    gutenberg_agent_id: '293'
+    url: http://www.gutenberg.org/2009/agents/293
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Lamb
+description: ''
+gutenberg_issued: '2005-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9365'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lamb, Charles, 1775-1834 -- Correspondence'
+- !lcc 'PR'
+- !lcsh 'Lamb, Charles, 1775-1834'
+- !lcsh 'Authors, English -- 19th century -- Correspondence'
+- !lcsh 'Lamb, Mary, 1764-1847 -- Correspondence'
+title: "The Works of Charles and Mary Lamb — Volume 5\r\nThe Letters of Charles and\
+  \ Mary Lamb, 1796-1820"
+url: http://www.gutenberg.org/ebooks/9365
