@@ -1,4 +1,5 @@
 _repo: The-Works-of-Charles-and-Mary-Lamb-Volume-5-The-Letters-of-Charles-and-Mary-Lamb-1796-1820_9365
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -11,6 +12,9 @@ contributor:
       gutenberg_agent_id: '818'
       url: http://www.gutenberg.org/2009/agents/818
       wikipedia: http://en.wikipedia.org/wiki/E._V._Lucas
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Lamb, Mary
@@ -27,6 +31,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/293
     wikipedia: http://en.wikipedia.org/wiki/Charles_Lamb
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9365#The-Works-of-Charles-and-Mary-Lamb-Volume-5-The-Letters-of-Charles-and-Mary-Lamb-1796-1820
 gutenberg_issued: '2005-11-01'
 gutenberg_type: Text
 identifiers:
